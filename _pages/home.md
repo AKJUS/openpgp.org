@@ -9,6 +9,7 @@ header:
   caption:
 excerpt: 'Open. Universal. Decentralized.'
 intro:
+  - excerpt: "[2026-07-01](https://www.rfc-editor.org/info/rfc9980): Welcome to RFC 9980 (PQC in OpenPGP)"
   - excerpt: "[2026-06-05](https://www.philzimmermann.com/EN/essays/PGP_10thAnniversary.html): Happy 35th Birthday to PGP!"
 feature_row:
   - image_path: /images/green-field-wheat-grass-growing.jpg
